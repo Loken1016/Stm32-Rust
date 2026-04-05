@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/loken/Documents/Stm32/stm-blink/target/thumbv7m-none-eabi/debug/build/stm32f1-2afa139136e96bba/out
+cargo:rerun-if-changed=src/stm32f103/device.x
+cargo:rerun-if-changed=build.rs
